@@ -1,4 +1,4 @@
-import {shallow, render} from 'enzyme';
+import {render} from 'enzyme';
 import PageEntryPure from 'components/page/entry/PageEntryPure.jsx';
 import * as carsData from 'data/cars';
 

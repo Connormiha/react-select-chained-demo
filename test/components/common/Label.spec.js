@@ -1,4 +1,4 @@
-import {shallow, render} from 'enzyme';
+import {render} from 'enzyme';
 import Label from 'components/common/Label';
 
 describe('Label', () => {

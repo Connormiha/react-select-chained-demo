@@ -7,7 +7,7 @@ export default class Label extends React.Component {
     static propTypes = {
         onChange: PropTypes.func,
         selectedID: PropTypes.string,
-        data: PropTypes.array
+        data: PropTypes.array.isRequired
     }
 
     render() {
