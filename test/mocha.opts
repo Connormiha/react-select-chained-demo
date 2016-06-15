@@ -1,0 +1,7 @@
+--compilers js:babel-core/register
+--require test/mochasetup
+--require ignore-styles
+--reporter nyan
+--recursive
+--slow 20
+--growl
